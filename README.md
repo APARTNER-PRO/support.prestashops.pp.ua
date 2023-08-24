@@ -1,1 +1,0 @@
-# support.prestashops.pp.ua
